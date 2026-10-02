@@ -85,8 +85,6 @@ Track: Web Development & Designing
 Level: Level 2
 Task: Calculator
 
-Author
+## Author
 Tanmay Chouksey
 
-
-This README now accurately reflects **everything we've actually implemented**, including the extra History + Local Storage functionality.
