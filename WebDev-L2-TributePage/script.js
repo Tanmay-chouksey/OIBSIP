@@ -19,7 +19,7 @@ const people = {
     kalam: {
         name: "A. P. J. Abdul Kalam",
         subtitle: "Scientist, Visionary & Former President of India",
-        image: "assets/apj-abdul-kalam.jpg",
+        image: "Assets/apj-abdul-kalam.jpg",
         about: [
             "A. P. J. Abdul Kalam was an Indian aerospace scientist who was closely associated with India's space and defence programmes. He was born on 15 October 1931 in Rameswaram, Tamil Nadu, and developed an early interest in science and engineering.",
             "Kalam worked with organisations including the Indian Space Research Organisation and the Defence Research and Development Organisation. His work was connected with major Indian space and missile development programmes, and he became widely known as a scientist and public figure.",
@@ -60,7 +60,7 @@ const people = {
     vivekananda: {
         name: "Swami Vivekananda",
         subtitle: "Philosopher, Monk & Spiritual Leader",
-        image: "assets/swami-vivekananda.jpg",
+        image: "Assets/swami-vivekananda.jpg",
         about: [
             "Swami Vivekananda was an Indian monk and philosopher born as Narendranath Datta in Kolkata in 1863. He became a disciple of Sri Ramakrishna and developed a strong interest in spirituality, philosophy, education, and social service.",
             "He became internationally known after representing India at the World's Parliament of Religions in Chicago in 1893. His speeches introduced many international audiences to Indian philosophical traditions including Vedanta.",
@@ -101,7 +101,7 @@ const people = {
     tata: {
         name: "Ratan Tata",
         subtitle: "Industrialist, Philanthropist & Former Tata Sons Chairman",
-        image: "assets/ratan-tata.jpg",
+        image: "Assets/ratan-tata.jpg",
         about: [
             "Ratan Naval Tata was an Indian industrialist and philanthropist who was born in Mumbai in 1937. He joined the Tata Group in 1962 after completing his studies and gradually took on leadership responsibilities within the group.",
             "In 1991, Tata became Chairman of Tata Sons. During his tenure, Tata Group companies expanded their presence internationally, including through acquisitions involving companies such as Jaguar Land Rover and Tetley.",
@@ -142,7 +142,7 @@ const people = {
     ambedkar: {
         name: "Dr. B. R. Ambedkar",
         subtitle: "Jurist, Economist, Scholar & Social Reformer",
-        image: "assets/br-ambedkar.webp",
+        image: "Assets/br-ambedkar.webp",
         about: [
             "Dr. Bhimrao Ramji Ambedkar was an Indian jurist, economist, scholar, and social reformer. He was born on 14 April 1891 in Mhow, in present-day Madhya Pradesh, and pursued higher education in India and abroad.",
             "Ambedkar became an important voice in discussions about social equality, education, political representation, and the rights of historically marginalised communities. He used his education and legal knowledge to advocate for social and economic rights.",
